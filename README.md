@@ -34,7 +34,7 @@ Training curves and the confusion matrix are in the `assets/` folder.
 - **Hardware:** Google Colab, T4 GPU
 - **Settings:** image size 640, batch size 16, up to 100 epochs, early stopping with patience 20 (training stopped at epoch 75)
 - **Classes:** `With Helmet`, `Without Helmet`
-- **Training notebook:** [`notebooks/train.ipynb`](notebooks/train.ipynb)
+- **Training notebook:** [`notebooks/Detection_training.ipynb`](Detection_training.ipynb)
 
 ## Dataset
 
